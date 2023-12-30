@@ -7,7 +7,6 @@ This Python web scraper collects news articles related to the Israel-Palestine c
 - [Pandas](https://pandas.pydata.org/): Data manipulation and analysis library
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): HTML parsing library
 - [Selenium](https://www.selenium.dev/documentation/en/): Web testing library for browser automation
-- [ChromeDriver](https://sites.google.com/chromium.org/driver/): WebDriver for Chrome browser
 
 ## Installation
 
