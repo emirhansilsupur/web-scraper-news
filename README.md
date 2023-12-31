@@ -13,7 +13,7 @@ This Python web scraper collects news articles related to the Israel-Palestine c
 1. Install the required Python libraries:
 
    ```bash
-   pip install pandas beautifulsoup4 selenium
+   pip install -r requirements.txt
 2. Download ChromeDriver from the official website: https://sites.google.com/chromium.org/driver/ and place it in the specified path.
 
 ## Usage
